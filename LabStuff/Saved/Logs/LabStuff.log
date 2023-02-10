@@ -1168,3 +1168,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.10-10.39.06:246][108]LogSlate: Window 'Message Log' being destroyed
 [2023.02.10-10.40.04:337][335]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
 [2023.02.10-10.40.56:677][194]LogSlate: Window 'Tutorials' being destroyed
+[2023.02.10-10.42.10:615][557]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png' error.
+[2023.02.10-10.42.10:615][557]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage5_01.png
+[2023.02.10-10.42.23:440][ 39]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/whatYouAreMaking.png' error.
+[2023.02.10-10.42.23:440][ 39]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/whatYouAreMaking.png
+[2023.02.10-10.42.27:086][426]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.10-10.42.33:732][163]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage11_01.png' error.
+[2023.02.10-10.42.33:732][163]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part1/IWBE_Tutorial_Part1_Stage11_01.png
+[2023.02.10-10.42.37:129][506]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage0_01.png' error.
+[2023.02.10-10.42.37:129][506]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Stage0_01.png
+[2023.02.10-10.42.37:129][506]LogStreaming: Warning: Failed to read file '../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Trans_01.png' error.
+[2023.02.10-10.42.37:129][506]LogSlate: Could not find file for Slate resource: ../../../../../Samples-Content Resources/TUTORIALS/IWBE_Tutorial_Part2/IWBE_Tutorial_Part2_Trans_01.png
