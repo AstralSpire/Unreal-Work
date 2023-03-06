@@ -1151,3 +1151,1226 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.06-22.34.36:491][ 52]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.06-22.34.36:491][ 52]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.03.06-22.34.36:491][ 52]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.06-22.36.00:409][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PROP_fence_v02_02)
+[2023.03.06-22.36.01:577][982]Cmd: EDIT COPY
+[2023.03.06-22.36.01:801][  7]Cmd: EDIT PASTE
+[2023.03.06-22.42.17:280][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PROP_fence_v02_11)
+[2023.03.06-22.42.18:068][356]Cmd: EDIT COPY
+[2023.03.06-22.42.18:272][379]Cmd: EDIT PASTE
+[2023.03.06-22.42.28:887][479]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.03.06-22.42.31:487][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PROP_fence_v02_12)
+[2023.03.06-22.42.41:611][881]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.03.06-22.44.36:264][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.06-22.44.36:389][125]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap_Auto594DDDE9B4427C5D796881395C83927AE.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2023.03.06-22.44.36:391][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.140
+[2023.03.06-22.44.36:391][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.140
+[2023.03.06-22.47.31:394][174]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.03.06-22.47.31:406][174]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.03.06-22.47.38:641][ 39]LogContentBrowser: Attempting asset rename: NewMaterial -> LandScapeMat
+[2023.03.06-22.47.38:644][ 39]LogContentBrowser: End creating deferred item NewMaterial
+[2023.03.06-22.47.42:728][413]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LandScapeMat.LandScapeMat
+[2023.03.06-22.47.42:730][413]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: E282AE646A86A45232C1B642655FCE919D6960A3), compiling. 
+[2023.03.06-22.47.42:738][413]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.03.06-22.47.42:749][413]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.06-22.47.42:840][413]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.06-22.47.43:044][413]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: A486DC4296BD7BBD7251AB599772C4573AF82DA6), compiling. 
+[2023.03.06-22.47.43:049][413]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: FF2068E8D4534B816A61A4C74B4EF940E1245062), compiling. 
+[2023.03.06-22.47.43:063][413]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.47.43:098][413]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.47.43:104][413]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.47.43:106][413]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.47.43:762][436]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.06-22.47.43:762][436]LogShaderCompilers: Display: Total job queries 124, among them cache hits 20 (16.13%)
+[2023.03.06-22.47.43:762][436]LogShaderCompilers: Display: Tracking 85 distinct input hashes that result in 71 distinct outputs (83.53%)
+[2023.03.06-22.47.43:762][436]LogShaderCompilers: Display: RAM used: 0.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.03.06-22.47.43:762][436]LogShaderCompilers: Display: ================================================
+[2023.03.06-22.47.43:977][444]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.47.44:631][473]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.47.44:631][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.47.44:631][473]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.47.44:631][473]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.47.51:974][ 89]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: F470290FB2618BB7F8620AEAB55E88C3A0AC32C8), compiling. 
+[2023.03.06-22.47.51:977][ 89]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 03E0ABDCFEEE885C9D09B6C6553E3724A3FABF24), compiling. 
+[2023.03.06-22.47.51:982][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.47.51:993][ 89]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.47.51:999][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.47.51:999][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.47.51:999][ 89]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.47.51:999][ 89]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.47.52:024][ 90]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.47.52:024][ 90]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.47.52:024][ 90]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.47.52:024][ 90]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.47.52:024][ 90]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.47.52:578][119]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.47.53:121][155]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.47.53:121][155]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.47.53:121][155]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.47.53:121][155]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.48.15:144][511]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: C35F9805E76E9B97A324947D3BFADD9A988D7855), compiling. 
+[2023.03.06-22.48.15:147][511]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7DC2C96CAD5AD0CE4D8F35284A6CE77703042614), compiling. 
+[2023.03.06-22.48.15:154][512]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.48.15:193][513]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.48.15:193][513]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.48.15:193][513]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.48.15:193][513]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.48.53:213][812]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0E8EF0FE8E1CCE38F66300C8FE5CD2D3E79A7256), compiling. 
+[2023.03.06-22.48.53:215][812]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1B84FAB7B618A8F55645FDC04AEA0EF8BA47BB3C), compiling. 
+[2023.03.06-22.48.53:223][813]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.48.53:262][814]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.48.53:262][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.48.53:263][814]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.48.53:263][814]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.48.53:626][848]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3C610B5C352BDE5918F19DAA41BD535A7E737E4B), compiling. 
+[2023.03.06-22.48.53:629][848]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 52A8B89ADB8B04A0D81FDF2A48FDAC4A6BF56C1A), compiling. 
+[2023.03.06-22.48.53:636][849]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.48.53:675][850]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.48.53:675][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.48.53:675][850]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.48.53:675][850]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.49.06:404][ 56]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 22C85DBD4C5FE4B9E28A6A2179737524001D0390), compiling. 
+[2023.03.06-22.49.06:406][ 56]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: F24B7EA377727D0092C716444E4D20854A2FF27C), compiling. 
+[2023.03.06-22.49.06:408][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.49.06:467][ 57]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.49.06:468][ 57]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.49.06:468][ 57]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.49.06:468][ 57]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.49.09:816][363]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 51DD4750273B5068A83F23F9AD1413EC1221A91D), compiling. 
+[2023.03.06-22.49.09:818][363]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 4967A1D59A73D16E2DBC2BD6FCB2246485FFFA56), compiling. 
+[2023.03.06-22.49.09:820][363]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.49.09:864][364]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.49.09:864][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.49.09:864][364]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.49.09:864][364]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.49.13:160][669]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0174E321D48F81ADAF5B3EBB15EE665C504BD6A3), compiling. 
+[2023.03.06-22.49.13:163][669]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 47B52129BEFE68BD039C6199E0B0230FAC80C5E1), compiling. 
+[2023.03.06-22.49.13:164][669]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.49.13:211][670]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.49.13:211][670]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.49.13:211][670]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.49.13:211][670]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.05:363][620]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: AEA5DFC6A9961C3034FF65451BFE7F64BACFC7BE), compiling. 
+[2023.03.06-22.50.05:366][620]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 100157ED778EDC77740E1F7EFBA691272BFD99D7), compiling. 
+[2023.03.06-22.50.05:368][620]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.50.05:379][620]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.05:380][620]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.50.05:380][620]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.50.05:380][620]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.05:385][620]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.05:409][621]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.50.05:409][621]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.50.05:409][621]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.50.05:409][621]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.50.05:409][621]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.06:210][661]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.06:836][695]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.50.06:836][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.50.06:836][695]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.50.06:836][695]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.08:601][845]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: E8516BE69F102632EFAE4E981E1B60B4E7F880BA), compiling. 
+[2023.03.06-22.50.08:603][845]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7006F650337FAF9DA99D3EDB764908153A46E6B1), compiling. 
+[2023.03.06-22.50.08:605][845]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.50.08:616][845]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.08:622][845]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.08:624][845]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.09:187][872]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.09:695][901]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.50.09:695][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.50.09:695][901]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.50.09:695][901]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.11:152][ 36]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 96E0CFB995EE9E87FB2DACDBA5929CD297E4DAEA), compiling. 
+[2023.03.06-22.50.11:154][ 36]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 94F86B5F4C15DA33050217C94E21E4C50EB2186C), compiling. 
+[2023.03.06-22.50.11:157][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.50.11:167][ 36]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.11:174][ 36]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.50.11:176][ 36]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.50.11:761][ 65]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.12:284][ 93]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.50.12:284][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.50.12:284][ 93]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.50.12:284][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.50.52:105][891]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 350833032B3907C9256BBF0D442581BDA643E0EC), compiling. 
+[2023.03.06-22.50.52:108][891]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A0DF7D97F4802EC1B3560F7919C32462E25EDF86), compiling. 
+[2023.03.06-22.50.52:112][891]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.50.52:138][891]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.06-22.50.52:138][891]LogShaderCompilers: Display: Total job queries 234, among them cache hits 90 (38.46%)
+[2023.03.06-22.50.52:138][891]LogShaderCompilers: Display: Tracking 134 distinct input hashes that result in 78 distinct outputs (58.21%)
+[2023.03.06-22.50.52:138][891]LogShaderCompilers: Display: RAM used: 0.44 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.03.06-22.50.52:138][891]LogShaderCompilers: Display: ================================================
+[2023.03.06-22.50.52:174][892]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.50.52:174][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.50.52:174][892]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.50.52:174][892]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.51.10:310][309]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1DFB9DE0761031F0A7AD15F87BDD9BD20E13167B), compiling. 
+[2023.03.06-22.51.10:312][309]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C36526880BD57F279C09BA1944CBC64BAB43EDA9), compiling. 
+[2023.03.06-22.51.10:314][309]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: D16DF0BB2D4DD5C049EE78669A7509B4840E4E77), compiling. 
+[2023.03.06-22.51.10:319][309]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.51.10:365][310]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.51.10:365][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.51.10:365][310]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.51.10:365][310]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.51.10:369][310]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.51.10:371][310]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.51.10:371][310]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.51.10:371][310]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.51.20:305][ 70]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: FC34050571E54ECE95C96B602EE35E4A8D9195EB), compiling. 
+[2023.03.06-22.51.20:307][ 70]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 43314CF70B42B060FE37F991CF82092AF1416590), compiling. 
+[2023.03.06-22.51.20:309][ 70]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 076F95B571504A9AD1EA6DF8942C548996F144BF), compiling. 
+[2023.03.06-22.51.20:313][ 70]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.51.20:364][ 71]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.03.06-22.51.20:364][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.03.06-22.51.20:364][ 71]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.06-22.51.20:364][ 71]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.06-22.52.01:707][637]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5B2CA8C1F79BD27FC2823929C771A8AC08B48100), compiling. 
+[2023.03.06-22.52.01:709][637]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 268856B00AFC3221416A3D0C570A8897E31E21F5), compiling. 
+[2023.03.06-22.52.01:712][637]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.52.01:712][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.01:712][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.01:724][637]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.52.01:727][637]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.52.01:727][637]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.52.01:727][637]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.52.01:729][637]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.52.01:761][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.52.01:761][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.52.01:761][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.52.01:761][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.52.01:761][639]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.52.02:642][679]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.52.02:642][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.02:642][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.03:292][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.04:090][776]LogMaterialEditor: Applying material LandScapeMat
+[2023.03.06-22.52.04:368][776]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: FAB81C31F946DA86E37E3DFB499CE1261A812331), compiling. 
+[2023.03.06-22.52.04:400][776]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: C5E966744C029D7956CF543889DE0B017D92C483), compiling. 
+[2023.03.06-22.52.04:440][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.06-22.52.04:449][776]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.52.04:659][776]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.06-22.52.04:659][776]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.52.04:680][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.06-22.52.04:692][776]MaterialEditorStats: Texture samplers: 1/16
+[2023.03.06-22.52.04:693][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.04:693][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.04:704][777]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.52.04:704][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.04:704][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.04:714][777]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.03.06-22.52.04:724][777]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.52.05:289][805]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.52.05:289][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.05:289][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.05:314][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.22:474][323]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 66D3BCD08E0E5A9C9B5A656E3AAD4858FC55503B), compiling. 
+[2023.03.06-22.52.22:476][323]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 39E1CF73CCFD1C3D81557B2D5EEC49AB0444640C), compiling. 
+[2023.03.06-22.52.22:479][323]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.52.22:479][323]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.22:479][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.22:542][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.54:119][530]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: B89575939C9C76306A6287A0F9318BA232A33AF4), compiling. 
+[2023.03.06-22.52.54:121][530]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D22B9BA1927E817A4EE0ED0D186A13D2EBD818B9), compiling. 
+[2023.03.06-22.52.54:122][530]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 3251874BA7405B648FFB7917072FF0C73B0FBDBE), compiling. 
+[2023.03.06-22.52.54:126][530]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.52.54:126][530]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.54:126][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.52.54:177][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.52.54:180][531]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.52.54:190][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.52.54:190][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.52.54:190][531]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.53.01:073][ 33]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: E6349F7E6268B787DCF90DD4E791F667CD00E59C), compiling. 
+[2023.03.06-22.53.01:074][ 33]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 37407927505298A258C021D0E9C3AF13CB121AD1), compiling. 
+[2023.03.06-22.53.01:077][ 33]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 01E41928AC212DE89AD099BDCB032415CBFB45FB), compiling. 
+[2023.03.06-22.53.01:081][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.01:081][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.01:081][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.01:123][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.01:127][ 34]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.53.01:131][ 34]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.53.01:131][ 34]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.53.01:131][ 34]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.53.24:906][971]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: E80F87444FAEB40C778CEACE3E268DDC35DF53C8), compiling. 
+[2023.03.06-22.53.24:907][971]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B470A86D1C9711A1B91639CBE1160FC8CD30DF08), compiling. 
+[2023.03.06-22.53.24:909][971]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: D2F8259CA54BC1A0C615CE32BCEB281D7FFAB2F2), compiling. 
+[2023.03.06-22.53.24:914][971]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.24:914][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.24:914][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.24:963][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.33:475][635]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 706512A0F10CB121488B63D470D0BD502C4D1F9E), compiling. 
+[2023.03.06-22.53.33:477][635]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0100EE0F277FCDBDD50B5EE2B73E9BC55D3531B4), compiling. 
+[2023.03.06-22.53.33:478][635]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 9A57A0A920D4BDCA2C662FF3E1E1FF55050686F3), compiling. 
+[2023.03.06-22.53.33:482][635]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.33:482][635]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.33:482][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.33:523][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.44:994][542]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: BCCCF8C11EE64B771AACDF0548FCB181C7881045), compiling. 
+[2023.03.06-22.53.44:996][542]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F98A163149FCD62C72A8A40A5E392BE528D2D6CE), compiling. 
+[2023.03.06-22.53.44:997][542]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: DF2866DB11F37660E7E937976CE3F7EC7D118FE8), compiling. 
+[2023.03.06-22.53.45:001][542]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.45:001][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.45:001][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.03.06-22.53.45:055][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.49:219][866]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 26D9F2E8FC87C27B51C0D184476443C902638126), compiling. 
+[2023.03.06-22.53.49:221][866]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 154AFC7A975B74EF7238631299D27FFA20E6DAB6), compiling. 
+[2023.03.06-22.53.49:224][866]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.49:224][866]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.53.49:224][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.49:236][866]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.53.49:242][866]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.53.49:243][866]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.53.50:033][903]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.53.50:033][903]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.53.50:033][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.53.50:657][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.54:131][230]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 02B4BC7855C7041B4895B0E1BFE81A06AD422C8B), compiling. 
+[2023.03.06-22.53.54:132][230]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 405F6149131D7B3895BBAFA8B4A4B76E68AAE82D), compiling. 
+[2023.03.06-22.53.54:136][230]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.53.54:136][230]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.53.54:136][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.53.54:161][230]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.06-22.53.54:161][230]LogShaderCompilers: Display: Total job queries 396, among them cache hits 220 (55.56%)
+[2023.03.06-22.53.54:161][230]LogShaderCompilers: Display: Tracking 166 distinct input hashes that result in 98 distinct outputs (59.04%)
+[2023.03.06-22.53.54:161][230]LogShaderCompilers: Display: RAM used: 0.56 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.03.06-22.53.54:161][230]LogShaderCompilers: Display: ================================================
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.53.54:194][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.54.18:713][303]LogMaterialEditor: Saving and Compiling material LandScapeMat
+[2023.03.06-22.54.18:949][303]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 810C381823FE2A5D9B517ADE20A6F344A6828968), compiling. 
+[2023.03.06-22.54.18:985][303]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1E2A8BB687FCBADF977864D8AD19DBA7DCE8AD85), compiling. 
+[2023.03.06-22.54.19:000][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.06-22.54.19:009][303]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.54.19:317][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.06-22.54.19:317][303]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.54.19:337][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.06-22.54.19:384][303]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.03.06-22.54.19:395][303]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.54.19:400][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LandScapeMat" FILE="../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset" SILENT=true
+[2023.03.06-22.54.19:407][303]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/LandScapeMat25B1753F4893E5FD49F7A68DE91D3BCE.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset'
+[2023.03.06-22.54.19:420][303]AssetCheck: New page: Asset Save: LandScapeMat
+[2023.03.06-22.54.19:420][303]LogContentValidation: Display: Validating Material /Game/LandScapeMat.LandScapeMat
+[2023.03.06-22.54.19:426][303]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.54.19:426][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.54.19:426][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.54.20:095][338]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.06-22.54.20:095][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.54.20:095][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.54.20:122][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.55.24:731][218]LogTexture: Display: Building textures: T_Landscape_Soil_DH (OODLE_AutoDXT, 512X512)
+[2023.03.06-22.55.24:734][218]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: C502A352000285787543F4261CF58316D807FA13), compiling. 
+[2023.03.06-22.55.24:736][218]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 743FCCEBEB7672E8C01A66E8A1D6268F81E08A6D), compiling. 
+[2023.03.06-22.55.24:739][218]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B62BCEA3DCDFC9FD8151D73060FC8D4660E4196), compiling. 
+[2023.03.06-22.55.24:741][218]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.55.24:741][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.55.24:741][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: Texture samplers: 4/16
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.03.06-22.55.24:776][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.55.24:780][219]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.55.24:784][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.55.24:784][219]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.55.24:784][219]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.55.32:085][744]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 4CF1AAE308F75002E3221092C8CCDDF2A160566D), compiling. 
+[2023.03.06-22.55.32:086][744]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B14C0754B2D97424F3162215F6C2276BA71F40C8), compiling. 
+[2023.03.06-22.55.32:093][744]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.06-22.55.32:093][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.55.32:093][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.55.32:104][744]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.55.32:107][744]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.55.32:107][744]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.55.32:107][744]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.55.32:109][744]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.03.06-22.55.32:126][745]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.03.06-22.55.32:126][745]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.03.06-22.55.32:126][745]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.55.32:126][745]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.03.06-22.55.32:126][745]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.55.32:728][769]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.06-22.55.32:728][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.55.32:728][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.55.33:573][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.17:549][470]LogMaterialEditor: Saving and Compiling material LandScapeMat
+[2023.03.06-22.56.17:776][470]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: D9338C89CB0C654F6BFAF667B3048535DA08DE98), compiling. 
+[2023.03.06-22.56.17:811][470]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 6C203A25D8F6D34DD7C31556AA4C23AE87E0B5AD), compiling. 
+[2023.03.06-22.56.17:826][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.06-22.56.17:835][470]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.56.18:141][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.06-22.56.18:141][470]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.56.18:162][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.06-22.56.18:207][470]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.03.06-22.56.18:217][470]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.18:223][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LandScapeMat" FILE="../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset" SILENT=true
+[2023.03.06-22.56.18:229][470]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/LandScapeMat5D6AE6FA49DA727CBD615D8CE75FF8B8.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset'
+[2023.03.06-22.56.18:245][470]AssetCheck: New page: Asset Save: LandScapeMat
+[2023.03.06-22.56.18:245][470]LogContentValidation: Display: Validating Material /Game/LandScapeMat.LandScapeMat
+[2023.03.06-22.56.18:247][470]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.56.18:247][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.18:247][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.18:269][471]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.06-22.56.18:269][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.18:269][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.18:989][510]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.06-22.56.18:989][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.18:989][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.19:014][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.25:979][ 91]LogMaterialEditor: Applying material LandScapeMat
+[2023.03.06-22.56.26:207][ 91]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 98BA3452F83868E0F0C4CC1FEA7C8DEB5727FE48), compiling. 
+[2023.03.06-22.56.26:236][ 91]LogMaterial: Display: Missing cached shadermap for LandScapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: CA81A922ADB2FCA856C2F8A44F8019104C800621), compiling. 
+[2023.03.06-22.56.26:251][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.06-22.56.26:377][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.06-22.56.26:388][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2023.03.06-22.56.26:388][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.26:388][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.27:665][198]LogMaterialEditor: Saving and Compiling material LandScapeMat
+[2023.03.06-22.56.27:724][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LandScapeMat" FILE="../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset" SILENT=true
+[2023.03.06-22.56.27:728][198]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/LandScapeMat1EFED3C348CC755C55BF459F77F2512B.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/LandScapeMat.uasset'
+[2023.03.06-22.56.27:748][198]AssetCheck: New page: Asset Save: LandScapeMat
+[2023.03.06-22.56.27:748][198]LogContentValidation: Display: Validating Material /Game/LandScapeMat.LandScapeMat
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: Texture samplers: 6/16
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.03.06-22.56.27:770][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.06-22.56.28:933][299]LogSlate: Window 'LandScapeMat' being destroyed
+[2023.03.06-22.56.28:943][299]LogSlate: Window 'LandScapeMat' being destroyed
+[2023.03.06-22.56.28:946][299]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.06-22.56.28:946][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.06-22.56.31:337][526]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.03.06-22.56.41:669][270]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 45B0FABF6F564126EC61EA175491AA7B077F67F7), compiling. 
+[2023.03.06-22.56.41:687][270]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.56.41:689][270]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.56.41:689][270]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.56.41:689][270]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.03.06-22.56.41:706][270]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.42:295][294]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.56.42:295][294]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.42:646][306]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.03.06-22.56.42:646][306]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.42:684][307]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.03.06-22.56.42:684][307]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.56.42:902][315]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.56.42:902][315]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.14:112][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.06-22.57.14:240][984]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap_Auto6D9B033D3417E7F4DA864328EDBA4F37B.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.03.06-22.57.14:242][984]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.147
+[2023.03.06-22.57.14:242][984]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2023.03.06-22.57.20:212][108]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 5342432BD56DB22FC5C8BEB7CEB42B7BDFF00B06), compiling. 
+[2023.03.06-22.57.20:214][108]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: CA47A49798B8327D5FED560603A964DCAF31C1C7), compiling. 
+[2023.03.06-22.57.20:216][108]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B831DD50AF085B5554934CFA46ED082C2E7BD58), compiling. 
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.24:771][540]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.24:782][541]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.24:782][541]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.24:786][541]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.25:637][578]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.03.06-22.57.25:637][578]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.25:642][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.06-22.57.25:642][578]LogShaderCompilers: Display: Total job queries 562, among them cache hits 308 (54.80%)
+[2023.03.06-22.57.25:642][578]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 134 distinct outputs (59.03%)
+[2023.03.06-22.57.25:642][578]LogShaderCompilers: Display: RAM used: 0.74 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.03.06-22.57.25:642][578]LogShaderCompilers: Display: ================================================
+[2023.03.06-22.57.25:661][579]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.57.25:661][579]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.57.25:714][580]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.03.06-22.57.25:714][580]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.25:866][584]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.03.06-22.57.25:866][584]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.25:959][586]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.03.06-22.57.25:959][586]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.26:134][590]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.06-22.57.26:134][590]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.26:134][590]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.03.06-22.57.26:134][590]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.26:228][591]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.03.06-22.57.26:228][591]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.57.26:305][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.57.26:305][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.09:013][143]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2023.03.06-22.58.09:036][143]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2023.03.06-22.58.09:050][143]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2023.03.06-22.58.09:062][143]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2023.03.06-22.58.09:074][143]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2023.03.06-22.58.09:088][143]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2023.03.06-22.58.09:100][143]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2023.03.06-22.58.09:113][143]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2023.03.06-22.58.09:126][143]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2023.03.06-22.58.09:139][143]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2023.03.06-22.58.09:152][143]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2023.03.06-22.58.09:165][143]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2023.03.06-22.58.09:179][143]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2023.03.06-22.58.09:192][143]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2023.03.06-22.58.09:204][143]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2023.03.06-22.58.09:206][143]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2023.03.06-22.58.09:219][143]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2023.03.06-22.58.09:243][143]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2023.03.06-22.58.09:433][143]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_132 in PCD3D_SM5, Default, SM5 (DDC key hash: 26A5DAFEE5FC9E62F5E9F5D515E7A88750891C46), compiling. 
+[2023.03.06-22.58.09:456][144]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.58.09:456][144]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.58.09:456][144]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.58.09:456][144]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2023.03.06-22.58.09:465][145]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.10:079][174]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.03.06-22.58.10:079][174]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.10:430][187]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2023.03.06-22.58.10:430][187]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2023.03.06-22.58.10:430][187]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.10:775][199]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2023.03.06-22.58.10:775][199]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.10:878][201]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.03.06-22.58.10:878][201]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:054][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.03.06-22.58.11:054][208]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:239][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.03.06-22.58.11:239][213]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:285][215]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.03.06-22.58.11:285][215]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:286][215]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.03.06-22.58.11:286][215]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:358][216]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.03.06-22.58.11:358][216]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.11:385][216]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.03.06-22.58.11:385][216]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.16:000][448]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2023.03.06-22.58.23:464][888]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2023.03.06-22.58.53:763][160]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2023.03.06-22.58.53:768][160]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2023.03.06-22.58.53:780][160]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_133 in PCD3D_SM5, Default, SM5 (DDC key hash: 119B15FD3FF027BB9B6DDF2D33DB25292BB42AB0), compiling. 
+[2023.03.06-22.58.53:786][161]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.58.53:795][162]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.58.53:795][162]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.58.53:795][162]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.58.53:808][162]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.03.06-22.58.53:816][162]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.54:426][200]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.58.54:426][200]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.54:770][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.03.06-22.58.54:770][219]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.54:832][220]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.03.06-22.58.54:832][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.58.55:266][245]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.58.55:267][245]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.11:193][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PROP_stone_01)
+[2023.03.06-22.59.12:135][118]Cmd: DELETE
+[2023.03.06-22.59.12:136][118]Cmd: ACTOR DELETE
+[2023.03.06-22.59.12:147][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.06-22.59.12:162][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.03.06-22.59.12:169][118]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.03.06-22.59.12:705][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PROP_stone_2)
+[2023.03.06-22.59.13:146][231]Cmd: DELETE
+[2023.03.06-22.59.13:146][231]Cmd: ACTOR DELETE
+[2023.03.06-22.59.13:152][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.06-22.59.13:165][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.03.06-22.59.13:166][231]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.03.06-22.59.52:194][504]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2023.03.06-22.59.52:207][504]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_134 in PCD3D_SM5, Default, SM5 (DDC key hash: A2D61BC7953B95EF30D6E2E01F1C788194C1B28D), compiling. 
+[2023.03.06-22.59.52:213][505]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.59.52:221][506]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.03.06-22.59.52:221][506]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.03.06-22.59.52:221][506]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.06-22.59.52:234][506]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.03.06-22.59.52:243][506]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.52:863][550]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.03.06-22.59.52:863][550]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.53:240][576]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.03.06-22.59.53:240][576]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.53:313][580]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.03.06-22.59.53:313][580]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-22.59.53:799][613]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.03.06-22.59.53:799][613]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.06-23.00.15:876][ 43]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2023.03.06-23.01.09:306][966]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2023.03.06-23.01.20:876][248]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2023.03.06-23.01.35:778][ 15]Cmd: TRANSACTION UNDO
+[2023.03.06-23.01.35:778][ 15]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.03.06-23.01.35:780][ 15]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2023.03.06-23.01.35:781][ 15]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2023.03.06-23.02.34:776][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.06-23.02.34:794][711]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2023.03.06-23.02.34:795][711]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2023.03.06-23.02.34:795][711]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2023.03.06-23.02.34:796][711]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2023.03.06-23.02.34:797][711]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2023.03.06-23.02.34:798][711]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2023.03.06-23.02.34:799][711]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2023.03.06-23.02.34:800][711]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2023.03.06-23.02.34:800][711]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2023.03.06-23.02.34:801][711]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2023.03.06-23.02.34:802][711]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2023.03.06-23.02.34:804][711]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2023.03.06-23.02.34:804][711]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2023.03.06-23.02.34:805][711]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2023.03.06-23.02.34:806][711]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2023.03.06-23.02.34:807][711]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2023.03.06-23.02.34:809][711]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2023.03.06-23.02.34:810][711]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2023.03.06-23.02.34:810][711]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2023.03.06-23.02.34:943][711]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap23D90E3A400FE551D8E13F8744858222.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.06-23.02.35:250][711]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap_BuiltData2624D9AF4FDE8934059570A70AB43A82.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.06-23.02.35:265][711]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.06-23.02.35:265][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.06-23.02.35:265][711]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.06-23.03.27:500][577]LogEditorViewport: Clicking Background
+[2023.03.06-23.03.27:900][621]LogEditorViewport: Clicking Background
+[2023.03.06-23.03.28:245][659]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2023.03.06-23.04.11:626][143]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.03.06-23.05.03:818][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.06-23.05.03:836][690]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.03.06-23.05.03:839][690]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.03.06-23.05.03:994][690]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap0AD7C768471BF430BF6600A8C29745B2.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.06-23.05.04:313][690]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap_BuiltData6C3DA1514430E7AE95F0279D62730319.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.06-23.05.04:333][690]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.06-23.05.04:333][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.06-23.05.04:333][690]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.06-23.05.12:062][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.06-23.05.12:215][421]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap867B60404F77410473ED0C9661D5CADC.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.06-23.05.12:521][421]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/ThirdPersonExampleMap_BuiltData38FE89A14065D884AAC4A890220882C4.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.06-23.05.12:540][421]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.06-23.05.12:540][421]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.06-23.05.12:540][421]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.06-23.05.23:818][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.06-23.05.27:535][606]LogSlate: Window 'Save Content' being destroyed
+[2023.03.06-23.05.27:570][606]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/Dirt_LayerInfoF24D760B426EBFB5E1E8F5A4B03D5082.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.uasset'
+[2023.03.06-23.05.27:572][606]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/Grass_LayerInfo43C1EC2847CDAA6571D716B1ABAAB27F.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.uasset'
+[2023.03.06-23.05.27:574][606]LogSavePackage: Moving '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Saved/Rock_LayerInfoC76FD5EB468CFCC50319D7AE20368AA2.tmp' to '../../../../../../Users/anjum/Documents/GitHub/Unreal-Work/AssignmentShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Rock_LayerInfo.uasset'
+[2023.03.06-23.05.27:604][606]LogSlate: Window 'AssignmentShooter - Unreal Editor' being destroyed
+[2023.03.06-23.05.27:725][606]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.06-23.05.27:725][606]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.Dirt_LayerInfo
+[2023.03.06-23.05.27:725][606]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Rock_LayerInfo.Rock_LayerInfo
+[2023.03.06-23.05.27:725][606]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.Grass_LayerInfo
+[2023.03.06-23.05.27:726][607]Cmd: QUIT_EDITOR
+[2023.03.06-23.05.27:726][607]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.06-23.05.27:732][607]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.06-23.05.27:950][607]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.06-23.05.27:950][607]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.06-23.05.27:950][607]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2023.03.06-23.05.27:950][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.06-23.05.27:951][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.06-23.05.27:962][607]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.06-23.05.27:962][607]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.06-23.05.27:969][607]LogExit: Preparing to exit.
+[2023.03.06-23.05.28:421][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.06-23.05.28:651][607]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.06-23.05.28:655][607]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.06-23.05.28:661][607]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.06-23.05.28:760][607]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.06-23.05.28:784][607]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.06-23.05.28:785][607]LogExit: Editor shut down
+[2023.03.06-23.05.28:787][607]LogExit: Transaction tracking system shut down
+[2023.03.06-23.05.29:370][607]LogExit: Object subsystem successfully closed.
+[2023.03.06-23.05.29:402][607]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.06-23.05.29:402][607]LogShaderCompilers: Display: Total job queries 685, among them cache hits 323 (47.15%)
+[2023.03.06-23.05.29:402][607]LogShaderCompilers: Display: Tracking 352 distinct input hashes that result in 175 distinct outputs (49.72%)
+[2023.03.06-23.05.29:402][607]LogShaderCompilers: Display: RAM used: 1.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2023.03.06-23.05.29:402][607]LogShaderCompilers: Display: ================================================
+[2023.03.06-23.05.29:426][607]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module SequencerWidgets (874)
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.03.06-23.05.29:501][607]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.03.06-23.05.29:502][607]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.03.06-23.05.29:504][607]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.03.06-23.05.29:504][607]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.03.06-23.05.29:504][607]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.03.06-23.05.29:505][607]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2023.03.06-23.05.29:506][607]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2023.03.06-23.05.29:506][607]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (844)
+[2023.03.06-23.05.29:506][607]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2023.03.06-23.05.29:506][607]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2023.03.06-23.05.29:507][607]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2023.03.06-23.05.29:509][607]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (814)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (812)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (810)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.03.06-23.05.29:510][607]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.03.06-23.05.29:511][607]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.03.06-23.05.29:511][607]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.03.06-23.05.29:511][607]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.03.06-23.05.29:511][607]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.03.06-23.05.29:511][607]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.03.06-23.05.29:512][607]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.03.06-23.05.29:512][607]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.03.06-23.05.29:513][607]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.03.06-23.05.29:514][607]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.03.06-23.05.29:515][607]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.03.06-23.05.29:516][607]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.03.06-23.05.29:516][607]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.03.06-23.05.29:516][607]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.03.06-23.05.29:516][607]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.03.06-23.05.29:516][607]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.03.06-23.05.29:517][607]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.03.06-23.05.31:326][607]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.03.06-23.05.31:326][607]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.03.06-23.05.31:326][607]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.03.06-23.05.31:327][607]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.03.06-23.05.31:327][607]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.03.06-23.05.31:336][607]MemoryProfiler: Shutdown
+[2023.03.06-23.05.31:336][607]NetworkingProfiler: Shutdown
+[2023.03.06-23.05.31:336][607]LoadingProfiler: Shutdown
+[2023.03.06-23.05.31:341][607]TimingProfiler: Shutdown
+[2023.03.06-23.05.31:349][607]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.03.06-23.05.31:349][607]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.03.06-23.05.31:349][607]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.03.06-23.05.31:349][607]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.03.06-23.05.31:349][607]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.03.06-23.05.31:355][607]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.03.06-23.05.31:355][607]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.03.06-23.05.31:357][607]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.03.06-23.05.31:357][607]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.03.06-23.05.31:359][607]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.03.06-23.05.31:359][607]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.03.06-23.05.31:361][607]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.03.06-23.05.31:361][607]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.03.06-23.05.31:361][607]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.03.06-23.05.31:362][607]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.03.06-23.05.31:362][607]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.03.06-23.05.31:362][607]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.03.06-23.05.31:364][607]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.03.06-23.05.31:367][607]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.03.06-23.05.31:370][607]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.03.06-23.05.31:370][607]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.03.06-23.05.31:376][607]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.03.06-23.05.31:408][607]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.03.06-23.05.31:409][607]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.03.06-23.05.31:409][607]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.03.06-23.05.31:410][607]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.03.06-23.05.31:410][607]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.03.06-23.05.31:411][607]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.03.06-23.05.31:411][607]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.03.06-23.05.31:411][607]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.03.06-23.05.31:411][607]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.03.06-23.05.31:411][607]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.03.06-23.05.31:412][607]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.03.06-23.05.31:421][607]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.03.06-23.05.31:422][607]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.03.06-23.05.31:423][607]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.03.06-23.05.31:423][607]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.03.06-23.05.31:423][607]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.03.06-23.05.31:423][607]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.03.06-23.05.31:423][607]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.03.06-23.05.31:424][607]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.03.06-23.05.31:425][607]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.03.06-23.05.31:425][607]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.03.06-23.05.31:425][607]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.03.06-23.05.31:425][607]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.03.06-23.05.31:431][607]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.03.06-23.05.31:622][607]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.03.06-23.05.31:623][607]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.03.06-23.05.31:623][607]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.03.06-23.05.31:626][607]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.03.06-23.05.31:626][607]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2023.03.06-23.05.31:626][607]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2023.03.06-23.05.31:626][607]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.03.06-23.05.31:626][607]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.03.06-23.05.31:627][607]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2023.03.06-23.05.31:627][607]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2023.03.06-23.05.31:629][607]LogModuleManager: Shutting down and abandoning module EditableMesh (576)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (574)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module CableComponent (572)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AudioCapture (570)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (569)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AssetTags (566)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (564)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (562)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AppleImageUtils (560)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module AndroidPermission (558)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (556)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (554)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module TakeSequencer (552)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module TakeMovieScene (550)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2023.03.06-23.05.31:631][607]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module ImgMedia (544)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (540)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (538)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module UObjectPlugin (536)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (534)
+[2023.03.06-23.05.31:632][607]LogOpenImageDenoise: OIDN shutting down
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (532)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module MotoSynth (530)
+[2023.03.06-23.05.31:632][607]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (528)
+[2023.03.06-23.05.31:633][607]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (526)
+[2023.03.06-23.05.31:633][607]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (524)
+[2023.03.06-23.05.31:633][607]LogModuleManager: Shutting down and abandoning module PluginUtils (522)
+[2023.03.06-23.05.31:634][607]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (520)
+[2023.03.06-23.05.31:635][607]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2023.03.06-23.05.31:635][607]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2023.03.06-23.05.31:635][607]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2023.03.06-23.05.31:635][607]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2023.03.06-23.05.31:636][607]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2023.03.06-23.05.31:636][607]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2023.03.06-23.05.31:636][607]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2023.03.06-23.05.31:636][607]LogModuleManager: Shutting down and abandoning module GitSourceControl (504)
+[2023.03.06-23.05.31:636][607]LogModuleManager: Shutting down and abandoning module SourceControl (503)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (500)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (498)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (496)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (494)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (492)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2023.03.06-23.05.31:637][607]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (486)
+[2023.03.06-23.05.31:639][607]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (484)
+[2023.03.06-23.05.31:639][607]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (482)
+[2023.03.06-23.05.31:639][607]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (480)
+[2023.03.06-23.05.31:639][607]LogModuleManager: Shutting down and abandoning module ChaosNiagara (478)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (476)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module FractureEditor (474)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (473)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (470)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (466)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module AutomationUtils (464)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module AlembicImporter (462)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module AlembicLibrary (461)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module GeometryCache (460)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (459)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (454)
+[2023.03.06-23.05.31:640][607]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (452)
+[2023.03.06-23.05.31:641][607]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2023.03.06-23.05.31:641][607]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2023.03.06-23.05.31:641][607]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2023.03.06-23.05.31:642][607]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2023.03.06-23.05.31:841][607]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2023.03.06-23.05.31:841][607]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2023.03.06-23.05.31:841][607]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.03.06-23.05.31:843][607]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2023.03.06-23.05.31:845][607]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2023.03.06-23.05.31:946][607]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (382)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module AnimationSharing (380)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (378)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (376)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module Niagara (374)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module SignalProcessing (373)
+[2023.03.06-23.05.32:047][607]LogModuleManager: Shutting down and abandoning module NiagaraEditor (371)
+[2023.03.06-23.05.32:048][607]LogModuleManager: Shutting down and abandoning module NiagaraCore (368)
+[2023.03.06-23.05.32:048][607]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (366)
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (364)
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (362)
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (360)
+[2023.03.06-23.05.32:049][607]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (358)
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (356)
+[2023.03.06-23.05.32:049][607]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (354)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (352)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module MagicLeapController (350)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (348)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module MagicLeapAR (346)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module DataValidation (344)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module GameplayCameras (336)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2023.03.06-23.05.32:050][607]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2023.03.06-23.05.32:053][607]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2023.03.06-23.05.32:054][607]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2023.03.06-23.05.32:054][607]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2023.03.06-23.05.32:054][607]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2023.03.06-23.05.32:055][607]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.03.06-23.05.32:056][607]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.03.06-23.05.32:056][607]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.03.06-23.05.32:058][607]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.03.06-23.05.32:059][607]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.03.06-23.05.32:059][607]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.03.06-23.05.32:059][607]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.03.06-23.05.32:060][607]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.03.06-23.05.32:060][607]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.03.06-23.05.32:061][607]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.03.06-23.05.32:061][607]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.03.06-23.05.32:061][607]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.03.06-23.05.32:061][607]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.03.06-23.05.32:061][607]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.03.06-23.05.32:063][607]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.03.06-23.05.32:063][607]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.03.06-23.05.32:064][607]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.03.06-23.05.32:065][607]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.03.06-23.05.32:066][607]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.03.06-23.05.32:066][607]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.03.06-23.05.32:070][607]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.03.06-23.05.32:070][607]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.03.06-23.05.32:070][607]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.03.06-23.05.32:070][607]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.03.06-23.05.32:070][607]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.03.06-23.05.32:072][607]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.03.06-23.05.32:072][607]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.03.06-23.05.32:073][607]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.03.06-23.05.32:074][607]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.03.06-23.05.32:074][607]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.03.06-23.05.32:075][607]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.03.06-23.05.32:075][607]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.03.06-23.05.32:075][607]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.03.06-23.05.32:075][607]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.03.06-23.05.32:076][607]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.03.06-23.05.32:078][607]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.03.06-23.05.32:086][607]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.03.06-23.05.32:086][607]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.03.06-23.05.32:086][607]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.03.06-23.05.32:087][607]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.03.06-23.05.32:087][607]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.03.06-23.05.32:096][607]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.03.06-23.05.32:101][607]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.03.06-23.05.32:120][607]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.03.06-23.05.32:120][607]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.03.06-23.05.32:120][607]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.03.06-23.05.32:120][607]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.03.06-23.05.32:120][607]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.03.06-23.05.32:121][607]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.03.06-23.05.32:121][607]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.03.06-23.05.32:122][607]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.03.06-23.05.32:122][607]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.03.06-23.05.32:123][607]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.03.06-23.05.32:123][607]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.03.06-23.05.32:123][607]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.03.06-23.05.32:123][607]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.03.06-23.05.32:123][607]LogHMD: Freeing OpenVRDLLHandle.
+[2023.03.06-23.05.32:123][607]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.03.06-23.05.32:125][607]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.03.06-23.05.32:125][607]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.06-23.05.32:125][607]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.03.06-23.05.32:125][607]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.03.06-23.05.32:126][607]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.03.06-23.05.32:126][607]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.03.06-23.05.32:127][607]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.03.06-23.05.32:127][607]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.03.06-23.05.32:127][607]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2023.03.06-23.05.32:127][607]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.03.06-23.05.32:127][607]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.03.06-23.05.32:128][607]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.03.06-23.05.32:129][607]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.03.06-23.05.32:165][607]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.03.06-23.05.32:165][607]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.03.06-23.05.32:165][607]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30C880C1-4C9B-03F1-B374-BE9E1DF48000%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=a8c4a69d4183dc3cd641298894bec977%7C55649bd11b8746b38f45195d260a4fb0%7Ccf8dff95-368e-4cf6-9804-2f110406cc0f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.06-23.05.32:165][607]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.03.06-23.05.32:193][607]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.03.06-23.05.32:194][607]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.03.06-23.05.32:197][607]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.03.06-23.05.32:198][607]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.03.06-23.05.32:198][607]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.03.06-23.05.32:198][607]LogModuleManager: Shutting down and abandoning module PixWinPlugin (66)
+[2023.03.06-23.05.32:198][607]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.03.06-23.05.32:199][607]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.03.06-23.05.32:200][607]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.03.06-23.05.32:200][607]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.03.06-23.05.32:200][607]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.03.06-23.05.32:200][607]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.03.06-23.05.32:200][607]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.03.06-23.05.32:200][607]LogXGEController: Cleaning working directory: C:/Users/anjum/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.03.06-23.05.32:201][607]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.03.06-23.05.32:201][607]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.03.06-23.05.32:202][607]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.03.06-23.05.32:202][607]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.03.06-23.05.32:203][607]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.03.06-23.05.32:203][607]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.03.06-23.05.32:203][607]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.03.06-23.05.32:205][607]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.03.06-23.05.32:206][607]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.03.06-23.05.32:206][607]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.03.06-23.05.32:206][607]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.03.06-23.05.32:206][607]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.03.06-23.05.32:233][607]LogD3D11RHI: Shutdown
+[2023.03.06-23.05.32:233][607]LogD3D11RHI: CleanupD3DDevice
+[2023.03.06-23.05.32:239][607]LogExit: Exiting.
+[2023.03.06-23.05.32:252][607]Log file closed, 03/06/23 23:05:32
