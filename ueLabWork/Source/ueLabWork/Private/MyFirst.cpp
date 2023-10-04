@@ -59,7 +59,7 @@ void AMyFirst::AdvanceTimer()
 
 void AMyFirst::CountdownHasFinished()
 {
-	//CountdownText->SetText(TEXT("Go!"));
+	CountdownText->SetText(FText::ToString(TEXT("Go!")));
 }
 
 
