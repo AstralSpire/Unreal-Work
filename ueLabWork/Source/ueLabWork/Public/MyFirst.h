@@ -23,13 +23,13 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	
+	UFUNCTION(BlueprintCallable,Category = "MyCategory")
 	void MyFunction();
-	UTextRenderComponent* CountdownText;
-
-	int32 CountdownTime;
-	void UpdateTimerDisplay();
-	void AdvanceTimer();
-	void CountdownHasFinished();
-	FTimerHandle CountdownTimerHandle;
-		
+	UFUNCTION(BlueprintCallable,Category = "Calc")
+	int32 AddNums(int32 x, int32 y);
+	
+	
+	
+	UTextRenderComponent* MyText;
 };

@@ -8,21 +8,20 @@ AMyFirst::AMyFirst()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-	CountdownText = CreateDefaultSubobject<UTextRenderComponent>(TEXT("EnterCountDownNumber"));
-	CountdownText->SetHorizontalAlignment(EHTA_Center);
-	CountdownText->SetWorldSize(150.0f);
+	MyText = CreateDefaultSubobject<UTextRenderComponent>(TEXT("My Text Component")); //Initialises UTextRenderComponent
+	MyText->SetWorldSize(150.f); // Set size of text
+	MyText->SetText(FText::FromString(TEXT("Default Text2"))); // Set Text
 
-	RootComponent = CountdownText;
+	RootComponent = MyText;
+
 }
 
 // Called when the game starts or when spawned
 void AMyFirst::BeginPlay()
 {
 	Super::BeginPlay();
-	UpdateTimerDisplay();
-	GetWorldTimerManager().SetTimer(CountdownTimerHandle, this, &AMyFirst::AdvanceTimer, 1.0f, true);
-
-	MyFunction();
+	MyText->SetText(FText::FromString(TEXT("Begin Play!")));
+	
 }
 
 // Called every frame
@@ -41,25 +40,10 @@ void AMyFirst::MyFunction()
 	}
 }
 
-void AMyFirst::UpdateTimerDisplay()
+int32 AMyFirst::AddNums(int32 x, int32 y)
 {
-	CountdownText->SetText(FText::AsNumber(FMath::Max(CountdownTime, 0)));
+	return x + y;
 }
 
-void AMyFirst::AdvanceTimer()
-{
-	--CountdownTime;
-	UpdateTimerDisplay();
-	if (CountdownTime < 1)
-	{
-		GetWorldTimerManager().ClearTimer(CountdownTimerHandle);
-		CountdownHasFinished();
-	}
-}
-
-void AMyFirst::CountdownHasFinished()
-{
-	CountdownText->SetText(FText::ToString(TEXT("Go!")));
-}
 
 
