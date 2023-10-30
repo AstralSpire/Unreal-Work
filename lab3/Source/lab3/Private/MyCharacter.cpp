@@ -14,7 +14,8 @@ AMyCharacter::AMyCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 }
-}
+
+
 
 // Called when the game starts or when spawned
 void AMyCharacter::BeginPlay()
